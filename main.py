@@ -1,1 +1,2 @@
-print("Ich bin Teammitglied 3 - Ghost.")
+print("Hello Oliver! Ich bin Teammitglied 3.")
+
