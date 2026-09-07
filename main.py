@@ -1,1 +1,1 @@
-print("Hello Oliver!")
+print("Hello Oliver! Wir sind ein Team")
